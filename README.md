@@ -6,9 +6,9 @@
 <br>
 
 <h3 align="center"><b> PROFILE 📍 </b></h3>
-  <a href="https://haileelog.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
-  <a href="https://github.com/haileeLog" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
-  <a href="https://kkram95.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="https://ghdwnsah.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
+  <a href="https://github.com/ghdwnsah" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="https://hongjjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 <br>
 
 <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
