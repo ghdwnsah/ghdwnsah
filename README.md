@@ -19,10 +19,11 @@
 <br>
 
  <h3 align="center"><b>💡 What I've Used 💡</b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/NodeJS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Node,js-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Typescript-6DB33F?style=for-the-badge&logo=Typescript&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeORM-59666C?style=for-the-badge&logo=TypeORM&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Nest.js-6DB33F?style=for-the-badge&logo=NestJS&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeORM-59666C?style=for-the-badge&logo=typeorm&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/></a>
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=FFFFFF"/></a>
