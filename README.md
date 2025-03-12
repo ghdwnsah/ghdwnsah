@@ -19,7 +19,7 @@
 <br>
 
  <h3 align="center"><b>💡 What I've Used 💡</b></h3>  
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=black"/></a>  
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
