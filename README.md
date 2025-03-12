@@ -12,7 +12,7 @@
 <br>
 
 <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/user-service-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/user_service-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <!-- https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white -->
 <br>
 <br>
