@@ -9,10 +9,12 @@
   <a href="https://ghdwnsah.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
   <a href="https://github.com/ghdwnsah" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <a href="https://hongjjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+<br>  
+  <a href="https://checkered-tilapia-8cb.notion.site/19f3f0553b4a80ff8a08c6a577bc039a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-018EF5?logo=readme&logoColor=fff&style=for-the-badge"/></a>
 <br>
 
 <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/user_service-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="https://github.com/ghdwnsah/NestJSUserService" target="_blank"><img src="https://img.shields.io/badge/user_service-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <!-- https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white -->
 <br>
 <br>
@@ -22,13 +24,10 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=black"/></a>  
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Typescript-6DB33F?style=for-the-badge&logo=Typescript&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Nest.js-6DB33F?style=for-the-badge&logo=NestJS&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeORM-59666C?style=for-the-badge&logo=typeorm&logoColor=white"/></a>
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=FFFFFF"/></a>
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -73,13 +72,13 @@
 <br>
 
  <h3><b>📚 EDUCATION 📚</b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/></a>
+  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a> -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/부산직업전문학교-14BF96?style=for-the-badge&logoColor=white"/></a>
 </div>
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
  <h3><b> 🎄 Github Stats 🎄 </b></h3>
   <img src="https://github-readme-stats.vercel.app/api?username=haileelog&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
@@ -90,5 +89,5 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
   
 </div>
-
+ -->
 
