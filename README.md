@@ -10,7 +10,7 @@
   <a href="https://github.com/ghdwnsah" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <a href="https://hongjjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 <br>  
-  <a href="https://checkered-tilapia-8cb.notion.site/19f3f0553b4a80ff8a08c6a577bc039a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-018EF5?logo=readme&logoColor=fff&style=for-the-badge"/></a>
+  ✨<a href="https://checkered-tilapia-8cb.notion.site/19f3f0553b4a80ff8a08c6a577bc039a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-018EF5?logo=readme&logoColor=fff&style=for-the-badge"/></a>✨
 <br>
 
 <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
